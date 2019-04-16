@@ -4,3 +4,6 @@
 [submodule "3rdparty/pybind11"]
 	path = 3rdparty/pybind11
 	url = https://github.com/pybind/pybind11.git
+[submodule "build"]
+	path = build
+	url = https://github.com/longyesxl/build
